@@ -7,6 +7,7 @@ From [@UBLeipzig](https://www.ub.uni-leipzig.de) with love.
 * [DaiaLibero](https://github.com/finc/DaiaLibero), Restful webservice implementation of the Document Availability Information API (DAIA) for Libero.
 * [DaiaTheca](https://github.com/finc/DaiaTheca), Restful webservice implementation of the Document Availability Information API (DAIA) for Bibliotheca (using direct access to Bibliotheca's MsSQL-database).
 * [docker-vufind2](https://github.com/finc/docker-vufind2), Docker files for creating an vufind2 image.
+* [ervauka](https://github.com/useltmann/ervauka), RVK Hierarchy Browsing API.
 * [esbulk](https://github.com/miku/esbulk), Parallel elasticsearch bulk indexing utility for the command line.
 * [estab](https://github.com/miku/estab), Export elasticsearch documents as TSV or line delimited JSON.
 * [filterline](https://github.com/miku/filterline), Command line tool to filter file by line number.
