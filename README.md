@@ -20,6 +20,7 @@ From [@UBLeipzig](https://www.ub.uni-leipzig.de) with love.
 * [oaimi](https://github.com/miku/oaimi), No frills OAI harvesting for the command line.
 * [ottily](https://github.com/miku/ottily), Ottily executes a javascript snippet on each line of an input file in parallel.
 * [siskin](https://github.com/miku/siskin), Tasks around metadata.
+* [solr-fusion](https://github.com/outermedia/solr-fusion), Single solr proxy to multiple solr servers with different schemas.
 * [solrbulk](https://github.com/miku/solrbulk), SOLR bulk indexing utility for the command line.
 * [span](https://github.com/miku/span), High performance, versatile document conversions between a series of metadata formats.
 * [stardust](https://github.com/miku/stardust), String distance and similarity measures for the command line.
